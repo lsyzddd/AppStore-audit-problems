@@ -1,4 +1,4 @@
-ios的一些权限提示必须添加
+ios的一些权限提示必须添加，否则ios官方审核不能通过
 ```
 "plistcmds": [
   "Set :NSContactsUsageDescription 允许后，将导入通讯录中的联系人，可查看谁在使用嘿猪App",
