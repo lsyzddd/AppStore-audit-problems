@@ -1,3 +1,5 @@
+ios的一些权限提示必须添加
+```
 "plistcmds": [
   "Set :NSContactsUsageDescription 允许后，将导入通讯录中的联系人，可查看谁在使用嘿猪App",
   "Set :NSMicrophoneUsageDescription 允许后，将使用您的麦克风",
